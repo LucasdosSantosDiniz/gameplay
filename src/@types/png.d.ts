@@ -1,0 +1,1 @@
+declare module "*.png"; // Corrige os erros das imagens que terminam em png
